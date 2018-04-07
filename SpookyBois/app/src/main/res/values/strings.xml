@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SpookyBois</string>
+    <string name="matt_button">Matt\'s spooky button</string>
+    <string name="thpooky">thpooky cat</string>
 </resources>
