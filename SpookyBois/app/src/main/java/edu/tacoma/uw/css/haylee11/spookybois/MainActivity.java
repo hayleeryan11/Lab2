@@ -13,8 +13,15 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+
     public void haylee(View view) {
         Intent intent = new Intent(this, Haylee.class);
+        startActivity(intent);
+    }
+
+
+    public void kaiMethod(View view) {
+        Intent intent = new Intent(this, imageActivity.class);
         startActivity(intent);
     }
 
