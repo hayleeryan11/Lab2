@@ -1,4 +1,4 @@
-package edu.tacoma.uw.css.haylee11.spookybois;
+package edu.tacoma.uw.css.haylee11.sppokybois;
 
 import org.junit.Test;
 

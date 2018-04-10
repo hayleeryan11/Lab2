@@ -1,4 +1,4 @@
-package edu.tacoma.uw.css.haylee11.spookybois;
+package edu.tacoma.uw.css.haylee11.sppokybois;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("edu.tacoma.uw.css.haylee11.spookybois", appContext.getPackageName());
+        assertEquals("edu.tacoma.uw.css.haylee11.sppokybois", appContext.getPackageName());
     }
 }
